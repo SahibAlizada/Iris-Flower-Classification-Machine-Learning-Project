@@ -39,11 +39,11 @@ Split dataset using train_test_split
 Performed EDA and created multiple visualizations
 
 ** Exploratory Data Analysis (EDA)
-✔ Pairplot
+ Pairplot
 
 Shows clear separation between Setosa, Versicolor, and Virginica.
 
-✔ Correlation Matrix
+Correlation Matrix
 
 Strong correlation between Petal Length and Petal Width
 
@@ -67,11 +67,11 @@ Reduces overfitting
 Works extremely well on small, clean datasets like Iris
 
 ** Model Performance
-✔ Accuracy: 100%
+- Accuracy: 100%
 
 The model classified all test samples correctly.
 
-✔ Classification Report:
+ Classification Report:
 
 All classes achieved:
 
@@ -81,7 +81,7 @@ Recall = 1.00
 
 F1-score = 1.00
 
-✔ Confusion Matrix:
+- Confusion Matrix:
 
 Perfect diagonal matrix — zero misclassifications.
 
